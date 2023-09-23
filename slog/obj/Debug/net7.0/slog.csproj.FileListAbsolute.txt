@@ -1,0 +1,14 @@
+C:\Users\andre\OneDrive\Рабочий стол\Ros\slog\bin\Debug\net7.0\slog.exe
+C:\Users\andre\OneDrive\Рабочий стол\Ros\slog\bin\Debug\net7.0\slog.deps.json
+C:\Users\andre\OneDrive\Рабочий стол\Ros\slog\bin\Debug\net7.0\slog.runtimeconfig.json
+C:\Users\andre\OneDrive\Рабочий стол\Ros\slog\bin\Debug\net7.0\slog.dll
+C:\Users\andre\OneDrive\Рабочий стол\Ros\slog\bin\Debug\net7.0\slog.pdb
+C:\Users\andre\OneDrive\Рабочий стол\Ros\slog\obj\Debug\net7.0\slog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Рабочий стол\Ros\slog\obj\Debug\net7.0\slog.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Рабочий стол\Ros\slog\obj\Debug\net7.0\slog.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Рабочий стол\Ros\slog\obj\Debug\net7.0\slog.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Рабочий стол\Ros\slog\obj\Debug\net7.0\slog.dll
+C:\Users\andre\OneDrive\Рабочий стол\Ros\slog\obj\Debug\net7.0\refint\slog.dll
+C:\Users\andre\OneDrive\Рабочий стол\Ros\slog\obj\Debug\net7.0\slog.pdb
+C:\Users\andre\OneDrive\Рабочий стол\Ros\slog\obj\Debug\net7.0\slog.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Рабочий стол\Ros\slog\obj\Debug\net7.0\ref\slog.dll
